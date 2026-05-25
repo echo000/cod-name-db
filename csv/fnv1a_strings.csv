@@ -124273,3 +124273,10 @@ d878efbd67f4833,bone_108
 c5da5a73c6c3adc,iw7_spas
 bf5080db1808d1e,j_collar_left_antenna_root
 53490fd5480817c,j_curtain_157
+c94246462ac6748,anim_movement = "run"
+ec5e7d2072ae0d5,anim_movement = "stop"
+439354b48ecaa9c,anim_pose = "back"
+eafc4a7d7b6a027,anim_pose = "crouch"
+e1307f5178440d1,anim_pose = "prone"
+c309a126c1a44ff,anim_pose = "stand"
+
