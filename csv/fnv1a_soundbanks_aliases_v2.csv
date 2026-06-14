@@ -18411,3 +18411,9 @@ d9d53219f5032632,wpn_sl_sargas_fire_npc_shot
 499897258b92d8b0,wpn_sl_sargas_fire_plr_interrupt
 927c8f69313754cc,wpn_sl_sargas_fire_plr_mech
 33202ef2dabffa,wpn_sl_sargas_fire_npc_med_atmo_int
+329af57bac3750b2,evt_melee_macchiato_start_bell
+352fa03db6ca14e4,phy_book
+4b266817a0b4e408,prj_dlc_2
+4b266b17a0b4e921,prj_dlc_1
+4b266917a0b4e5bb,prj_dlc_3
+5d92aa3b12f242e5,dst_fruit
