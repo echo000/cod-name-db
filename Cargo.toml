@@ -8,5 +8,5 @@ name = "NameIndex"
 path = "src/main.rs"
 
 [dependencies]
-porter-utils = { git = "https://github.com/dtzxporter/porter-lib" }
+porter-utils = { git = "https://github.com/echo000/porter-lib" }
 csv = "1.3.1"
