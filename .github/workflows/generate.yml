@@ -22,8 +22,6 @@ jobs:
 
       - name: Install Rust toolchain
         uses: dtolnay/rust-toolchain@stable
-        with:
-          toolchain: 1.88.0
 
       - name: Build release executable
         run: cargo build --release --bin ${{ env.EXE_NAME }}
